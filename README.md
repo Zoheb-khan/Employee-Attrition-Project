@@ -64,7 +64,7 @@ The project is divided into two phases:
   - Attrition
 
 **Power BI File:** `Employee_Attrition_Analysis.pbix`  
-**Dashboard Screenshot:** `dashboard.png` (optional but recommended)
+**Dashboard Screenshot:** `dashboard.png`
 
 ---
 
